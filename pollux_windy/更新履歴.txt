@@ -1,3 +1,9 @@
+lineage-15.1-20220109-UNOFFICIAL-pollux_windy.zip
+パフォーマンスの調整
+・IOスケジューラを cfq に変更
+セキュリティ更新（最終）
+・Android セキュリティパッチレベル 2021年10月5日
+
 lineage-15.1-20210419-UNOFFICIAL-pollux_windy.zip
 パフォーマンスの調整
 ・IOスケジューラを bfq に変更
